@@ -1,6 +1,6 @@
 # Rick&Morty Showcase
 
-![](https://github.com/Gogka/rick-morty-showcase/blob/main/showcase.mp4)
+![](https://github.com/Gogka/rick-morty-showcase/blob/main/showcase.gif)
 
 ## Main features
 
